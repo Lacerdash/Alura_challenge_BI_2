@@ -18,7 +18,7 @@ Em cada semana do desafio foi enviado uma área de trabalho no [Trello](https://
 
 ## Projetos desenvolvidos
 ### 🎞Semana 1 - Mergulhando no mercado cinematográfico - AluraFilms
-[Clique aqui para ir ao dashboard]()
+[Clique aqui para ir ao dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDgxNGI0MTQtZGU5OC00OWM5LTk0NGYtYTMzNTFiZjUyNTAwIiwidCI6IjIwZmZhYzMwLThiNWMtNDIwYy1hNjg5LTRiYjg4NzdkM2UxMiJ9)
 ### 📃Briefing
 
 Para essa semana, a empresa Alura Films dispinibilizou um dataset com informações sobre os 1000 filmes mais bem avaliados no [Internet Movie Database(IMDb)](https://www.imdb.com/) e requisitou algumas métricas para encontrar a combinação ideal de elenco e produção. Para o desenvolvimento do dashboard, foram requisitadas que algumas métricas estivessem presentes.
