@@ -64,5 +64,40 @@ Os 3 últimos gráficos possuem a mesma dica de ferramenta. Ao passar o mouse so
 
 
 ### Semana 2 Entendendo o mercado de restaurantes da Índia.
+[Clique aqui para ir ao dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDM2MTRlNDAtMzg2YS00OTcwLThmN2ItYjUzNjYyNzgyODc2IiwidCI6IjIwZmZhYzMwLThiNWMtNDIwYy1hNjg5LTRiYjg4NzdkM2UxMiJ9&pageName=ReportSection4ed72ac43749d96c0c07)
+
+### 📃Briefing
+
+Para essa semana, a empresa Alura Foods dispinibilizou um dataset no formato JSON com informações sobre restaurantes de diversos paises conseguidas atraves do site [ZOMATO](https://www.zomato.com/pt). A Alura Food tem interesse em expandir seu negócio entrando no mercado indiano. Para tomar a melhor decisão, ela precisa da sua ajuda na criação de métricas e análise dos dados disponibilizados. A empresa então requisitou que algumas informações estivessem presentes no dashboard, para que as decisões fossem tomadas com mais clareza.
+
+Para esse dashboard, criei 2 páginas. A primeira página traz as informações do mercado de resturantes Indiano, requisitado pela empresa. A segunda também é um pedido da empresa, contendo um relatório individualizado dos restaurantes. Crie botões para faciltar a navegação entre as páginas dos dashboards.
+
+Para esse dashboard, aproveitei as cores presentes na logo da empresa: cinza e verde, e inclui as cores laranja e azul, para lembrar a bandeira indiana.
+
+#### Página de Análise de Restaurantes Índia
+
+![Página Análise Restaurantes Índia](https://github.com/Lacerdash/Alura_challenge_BI_2/blob/main/Semana%202/Screenshots/An%C3%A1lise%20de%20restaurantes%20%C3%8Dndia%20sem%20filtro.PNG)
+
+Para mostrar as opções de filtro basta clicar no botão de filtro no canto superior esquerdo e para fecha-lo basta clicar no botão com um X que aparecerá. 
+
+Para seguir para a página de Análise Individual basta clicar no botão com o escrito " Análise Individual de Restaurantes"
+
+![Página Análise Restaurantes Índia1](https://github.com/Lacerdash/Alura_challenge_BI_2/blob/main/Semana%202/Screenshots/An%C3%A1lise%20de%20restaurantes%20%C3%8Dndia%20com%20filtro.PNG)
+
+
+#### Página de Análise Individual
+
+![Página Análise Individual](https://github.com/Lacerdash/Alura_challenge_BI_2/blob/main/Semana%202/Screenshots/An%C3%A1lise%20individual%20resturantes.PNG)
+
+Nenhum visual foi especificado pela empresa. Nessa página é possível filtrar as informações por restaurante, usando o filtro logo embaixo do título, ou por cidades, utilizando o mapa. Os filtros selecionados irão afetar os outros visuais, incluindo o título da página, que varia de acordo com o resturante selecionado.
+
+Os cartões embaixo do filtro de restaurante trazem as informações sobre delivery, reserva ou entrega do restaurante. Abaixo, é possível ver as informações de preço em rúpias, em dólares, em euros e em reais. Também é possível ver as informações de review dos usuários: nota média, avaliação do aplicativo e número de votos.
+
+Por último, embaixo do mapa encontram-se um botão a página do restaurante no ZOMATO.
+
 
 ### Semana 3 Analisando o setor de vendas da Alura Skimó.
+[Clique aqui para ir ao dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjNkOGVlYzItNzNlOC00ZThhLTgyZjEtODM1NTdhMjgwMmU1IiwidCI6IjIwZmZhYzMwLThiNWMtNDIwYy1hNjg5LTRiYjg4NzdkM2UxMiJ9&pageName=ReportSection6ad199bac3bd505adac0)
+
+
+
