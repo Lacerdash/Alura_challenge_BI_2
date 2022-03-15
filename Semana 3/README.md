@@ -60,7 +60,7 @@ Como um bônus, porém sem a necessidade de aparecerem no relatório, a empresa 
 - Dashboard de produtos: previsão de faturamento
 
 
-## Tratamento de dados e criações de medidas e hierarquias
+## Tratamento de dados
 
 Após a recuperação do banco de dados e da importação no Power BI, analisei as informações contidas nas tabelas. Durante essa análise, percebi que a tabela *produtos* precisava ser tratada com mais calma. As outras tabelas possuíam apenas problemas pontuais, como efetuar a troca do tipo de dados, e de padronização dos nomes das colunas, deixando todos com a letra inicial em maiúscula.
 
@@ -87,6 +87,8 @@ A segunda página terá informações dos venderores. Serão exibidos os valores
 A terceira página será destinada aos produtos. Serão exibidos os valores faturamento, custo, margem percentual, unidades vendidas, além de gráficos e 2 indicadores de desempenho. Será possível escolher o produto, categoria, embalagem, sabor e peso por meio de filtros também. 
 
 E a quarta página será a dos cenários. Nessa página é possível criar cenários e ver quais implicaçãoes no faturamento, custo, comissão e lucro esses cenários trazem, assim como um texto dinâmico baseado na escoha do usuário.
+
+### Criação de medidas 
 
 Para a criação dos dashboards financeiro, de vendedores e de produtos, foram criadas algumas métricas para fazer o cálculo do valor. A criação de métricas permite uma legibilidade maior e fácil transferência de ideias.
 
