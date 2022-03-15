@@ -103,8 +103,10 @@ Os cartões embaixo do filtro de restaurante trazem as informações sobre deliv
 Por último, embaixo do mapa encontram-se um botão a página do restaurante no ZOMATO.
 
 
-### Semana 3 Analisando o setor de vendas da Alura Skimó.
+### 🍦Semana 3 Analisando o setor de vendas da Alura Skimó.
 [Clique aqui para ir ao dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjNkOGVlYzItNzNlOC00ZThhLTgyZjEtODM1NTdhMjgwMmU1IiwidCI6IjIwZmZhYzMwLThiNWMtNDIwYy1hNjg5LTRiYjg4NzdkM2UxMiJ9&pageName=ReportSection6ad199bac3bd505adac0)
+
+### 📃Briefing
 
 Para essa semana, a empresa Alura Skimo está buscando um painel que comporte todas as métricas necessárias para acompanhar suas vendas. Outra demanda é a criação de outras paineis voltados somente para produtos e outro somente para vendedores, para poderem analisar de forma mais segmentada. Além disso a empresa solicitou uma análise de cenário do faturamento, custo e comissão. Para isso a empresa forneceu um banco de dados MySQL com 6 tabelas (categorias, clientes, itens_pedido, pedido, produtos, vendedores). 
 
