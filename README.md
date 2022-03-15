@@ -113,7 +113,7 @@ Utilizei a ferramenta [ColorSpace](https://mycolor.space/) para auxiliar na esco
 
 ![Página Análise de Vendas](https://github.com/Lacerdash/Alura_challenge_BI_2/blob/main/Semana%203/Screenshots/An%C3%A1lise%20de%20vendas1.PNG)
 
-No canto esquerdo da página inicial é possível visualizar o menu de navegação com ícones referentes as demais páginas do dashboard (vendedores, produtos e cenários), além disso é possível encontrar botões que direcionam para minhas redes sociais (linkedin e github). No canto direito superior se encontra os filtros de ano, mês e categoria do produto que podem ser utilizados separadamente ou em conjunto para afetar as visualizações dessa página. Outro ponto que vale ressaltar é o gráfico de faturmento por Ano/mês que contém uma projeção das vendas para os próximos 4 trimestres.
+No canto esquerdo da página inicial é possível visualizar o menu de navegação com ícones referentes as demais páginas do dashboard (vendedores, produtos e cenários), além disso é possível encontrar botões que direcionam para minhas redes sociais (linkedin e github). No canto direito superior se encontra os filtros de ano, mês e categoria do produto que podem ser utilizados separadamente ou em conjunto para afetar as visualizações dessa página. Outro ponto que vale ressaltar é o gráfico de faturmento por Ano/mês contém uma projeção das vendas para os próximos 4 trimestres.
 
 #### Página de Vendedores
 
