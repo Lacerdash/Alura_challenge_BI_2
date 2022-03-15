@@ -59,14 +59,6 @@ Como um bônus, porém sem a necessidade de aparecerem no relatório, a empresa 
 - Dashboard de produtos: análise de cenário
 - Dashboard de produtos: previsão de faturamento
 
-Com as especificações da empresa e meu conhecimento inicial da base de dados, decidi fazer um dashboard no Power BI com 4 páginas. A primeira página funcionará como página inical trazendo informações chave a respeito da empresa como faturamento, custo, comissão e lucro. Junto a essas informações, será exibido um gráfico de linhas trazendo a informação de quantidade vendida ao longo do tempo, faturamento por categoria, qtd vendida por categoria, faturamento por estado e filtros por ano, mês e categoria.
-
-A segunda página terá informações dos venderores. Serão exibidos os valores de faturamento, qtd pedidos, comissão, além de outros gráficos e indicadores de desempenho. Será possível escolher o vendedor por meio de filtros também. 
-
-A terceira página será destinada aos produtos. Serão exibidos os valores faturamento, custo, margem percentual, unidades vendidas, além de gráficos e 2 indicadores de desempenho. Será possível escolher o produto, categoria, embalagem, sabor e peso por meio de filtros também. 
-
-E a quarta página será a dos cenários. Nessa página é possível criar cenários e ver quais implicaçãoes no faturamento, custo, comissão e lucro esses cenários trazem, assim como um texto dinâmico baseado na escoha do usuário.
-
 
 ## Tratamento de dados e criações de medidas e hierarquias
 
@@ -88,7 +80,13 @@ Após a criação da tabela e limpeza dos dados, foi possível criar as hierarqu
 
 ## Desenvolvimento do Dashboard
 
-O dashboard foi desenvolvido em Power BI utlizando uma paleta de cores derivadas do site [My color Space](https://mycolor.space/). Como um bônus, também foi criada uma página para análise de cenários no caso de aumento ou redução no faturamento, custos e comissão
+De acordo com os pedidos da empresa dividi o dashboard em 4 páginas. A primeira página funcionará como página inical trazendo informações chave a respeito da empresa como faturamento, custo, comissão e lucro. Junto a essas informações, será exibido um gráfico de linhas trazendo a informação de quantidade vendida ao longo do tempo, faturamento por categoria, qtd vendida por categoria, faturamento por estado e filtros por ano, mês e categoria.
+
+A segunda página terá informações dos venderores. Serão exibidos os valores de faturamento, qtd pedidos, comissão, além de outros gráficos e indicadores de desempenho. Será possível escolher o vendedor por meio de filtros também. 
+
+A terceira página será destinada aos produtos. Serão exibidos os valores faturamento, custo, margem percentual, unidades vendidas, além de gráficos e 2 indicadores de desempenho. Será possível escolher o produto, categoria, embalagem, sabor e peso por meio de filtros também. 
+
+E a quarta página será a dos cenários. Nessa página é possível criar cenários e ver quais implicaçãoes no faturamento, custo, comissão e lucro esses cenários trazem, assim como um texto dinâmico baseado na escoha do usuário.
 
 Para a criação dos dashboards financeiro, de vendedores e de produtos, foram criadas algumas métricas para fazer o cálculo do valor. A criação de métricas permite uma legibilidade maior e fácil transferência de ideias.
 
@@ -134,10 +132,15 @@ Além dessas medidas outras medidas foram criadas e utilizadas nos visuais, como
 
 Com as medidas criadas, o dashboard foi desenvolvido com 4 páginas. 
 
-A primeira página funcionará como página inical trazendo informações chave a respeito da empresa como faturamento, custo, comissão e lucro. Junto a essas informações, será exibido um gráfico de linhas trazendo a informação de quantidade vendida ao longo do tempo, faturamento por categoria, qtd vendida por categoria, faturamento por estado e filtros por ano, mês e categoria.
+## Feramentas Utilizadas
 
-A segunda página terá informações dos venderores. Serão exibidos os valores de faturamento, qtd pedidos, comissão, além de outros gráficos e indicadores de desempenho. Será possível escolher o vendedor por meio de filtros também. 
+Para a criação do dashboard foi utilizado o Microsoft Power BI. Para o plano de fundo foi utilizado o Microsoft Power Point.
 
-A terceira página será destinada aos produtos. Serão exibidos os valores faturamento, custo, margem percentual, unidades vendidas, além de gráficos e 2 indicadores de desempenho. Será possível escolher o produto, categoria, embalagem, sabor e peso por meio de filtros também. 
+### Paleta de cores:
 
-E a quarta página será a dos cenários. Nessa página é possível criar cenários e ver quais implicaçãoes no faturamento, custo, comissão e lucro esses cenários trazem, assim como um texto dinâmico baseado na escoha do usuário.
+A paleta de cores foi derivada em grande parte do site [My color Space](https://mycolor.space/), com algumas pequenas alterações. 
+
+### Fontes dos ícones:
+
+Os ícones foram baixados do site [Flat Icon](https://www.flaticon.com/):
+
