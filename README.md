@@ -70,7 +70,7 @@ Os 3 últimos gráficos possuem a mesma dica de ferramenta. Ao passar o mouse so
 ![Dica diretores](https://github.com/Lacerdash/Alura_challenge_BI_2/blob/main/Semana%201/Screenshots/dica%20diretores.png)
 
 
-### Semana 2 Entendendo o mercado de restaurantes da Índia.
+### 👨‍🍳Semana 2 Entendendo o mercado de restaurantes da Índia.
 [Clique aqui para ir ao dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDM2MTRlNDAtMzg2YS00OTcwLThmN2ItYjUzNjYyNzgyODc2IiwidCI6IjIwZmZhYzMwLThiNWMtNDIwYy1hNjg5LTRiYjg4NzdkM2UxMiJ9&pageName=ReportSection4ed72ac43749d96c0c07)
 
 ### 📃Briefing
