@@ -117,16 +117,32 @@ No canto esquerdo da página inicial é possível visualizar o menu de navegaç�
 
 #### Página de Vendedores
 
-![Página Análise Restaurantes Índia1](https://github.com/Lacerdash/Alura_challenge_BI_2/blob/main/Semana%203/Screenshots/Vendedores1.PNG)
+![Página Análise Restaurantes Índia1](https://github.com/Lacerdash/Alura_challenge_BI_2/blob/main/Semana%203/Screenshots/Vendedores3.PNG)
 
-Na página de vendedores trouxe informações que considerei pertinentes para 
+Na página de vendedores trouxe informações que considerei pertinentes para uma análise mais segmentada. A página possui informações do faturamento total e a divisão por região, Qtd de pedidios total e a divisão por região, valor de comissão e a divisão por categoria de produto e um gráfico com o faturamento por Ano/mês. 
+
+Além disso no canto direito tem 2 gráficos de indicadores, um que mostra a "Média faturamento diária vendedor escolhido X Média diária vendedores" e outrdo que mostra a "Média qtd pedidos diário vendedor escolhido X Média qtd pedidos vendedores". Ao escolher algum vendedor os valores dos mesmos aparecem no gráfico, onde é possível fazer uma comparação da média do vendedor esolhido com a média dos vendedores, e logo embaixo de cada indicador aparece um texto que antes do vendedor ser escolhido mostra o texto "Escolha 1 vendendor", depois que o vendedor é escolhido aparece se ele está "Acima da média" ou "Abaixo da média".
+
+Exemplo:
+
+![Indicadores Vendedores](https://github.com/Lacerdash/Alura_challenge_BI_2/blob/main/Semana%203/Screenshots/vendedor%20escolhido1.PNG) 
 
 #### Página de Produtos
 
-![Página Análise Restaurantes Índia1](https://github.com/Lacerdash/Alura_challenge_BI_2/blob/main/Semana%203/Screenshots/Produtos.PNG)
+![Página Análise Restaurantes Índia1](https://github.com/Lacerdash/Alura_challenge_BI_2/blob/main/Semana%203/Screenshots/Produtos2.PNG)
+
+Na página de produtos trouxe informações que considerei pertinentes para uma análise mais segmentada. A página possui informações do faturamento total, custo total, margem percentual, unidades vendidas, além de um gráfico de pizza com o faturamento por Estado e um gráfico de linhas com o faturamento Ano/mês. 
+
+Além disso no meio da página tem 2 gráficos de indicadores, um que mostra a "Média faturamento diária produto escolhido X Média diária produtos" e outrdo que mostra a "Média uni. vendidas diária produto escolhido X Média diária produtos". Para os indicadores mostrarem essa comparação é necessário escolher apenas 1 produto, ao fazer isso os valores dos mesmos aparecem no indicador onde é possível compara-los. E logo embaixo de cada indicador aparece um texto dizendo se o produto está "Acima da média" ou "Abaixo da média".
+
+Exemplo:
+
+![Indicadores produtos1](https://github.com/Lacerdash/Alura_challenge_BI_2/blob/main/Semana%203/Screenshots/produto%20escolhido3.PNG) ![Indicadores produtos2](https://github.com/Lacerdash/Alura_challenge_BI_2/blob/main/Semana%203/Screenshots/produto%20escolhido4.PNG) 
 
 #### Página de Cenários
 
 ![Página Análise Restaurantes Índia1](https://github.com/Lacerdash/Alura_challenge_BI_2/blob/main/Semana%203/Screenshots/Cen%C3%A1rios.PNG)
 
+Na página de cenários é possível simular diferentes cenários de crescimento ou redeução no faturamento, custos e/ou comissão. A página contém 4 cartão com a informação de faturamento, custo, comissão e lucro do cenário simulado. Além disso logo a baixo de cada cartão existe um gráfico de barras com as informações reais, do cenário e a diferença do Cenário para o real.
 
+E mais embaixo na página existe um texto dinâmico que descreve o que cada alteração percentual em faturamento, custo ou comissão irá afetar no total do lucro no final.
