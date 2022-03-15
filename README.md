@@ -17,6 +17,10 @@ Em cada semana do desafio foi enviado uma área de trabalho no [Trello](https://
       - [Página de Análise de Restaurantes Índia](#página-de-análise-de-restaurantes-índia)
       - [Página de Análise Individual](#página-de-análise-individual)
     + [Semana 3 Analisando o setor de vendas da Alura Skimó.](#semana-3-analisando-o-setor-de-vendas-da-alura-skimó)
+      - [Página de Análise de Vendas](#página-de-análise-de-vendas)
+      - [Página de Vendedores](#página-de-vendedores)
+      - [Página de Produtos](#página-de-produtos)
+      - [Página de Cenários](#página-de-cenários)
 
 ## Projetos desenvolvidos
 ### 🎞Semana 1 - Mergulhando no mercado cinematográfico - AluraFilms
@@ -101,5 +105,28 @@ Por último, embaixo do mapa encontram-se um botão a página do restaurante no 
 ### Semana 3 Analisando o setor de vendas da Alura Skimó.
 [Clique aqui para ir ao dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjNkOGVlYzItNzNlOC00ZThhLTgyZjEtODM1NTdhMjgwMmU1IiwidCI6IjIwZmZhYzMwLThiNWMtNDIwYy1hNjg5LTRiYjg4NzdkM2UxMiJ9&pageName=ReportSection6ad199bac3bd505adac0)
 
+Para essa semana, a empresa Alura Skimo está buscando um painel que comporte todas as métricas necessárias para acompanhar suas vendas. Outra demanda é a criação de outras paineis voltados somente para produtos e outro somente para vendedores, para poderem analisar de forma mais segmentada. Além disso a empresa solicitou uma análise de cenário do faturamento, custo e comissão. Para isso a empresa forneceu um banco de dados MySQL com 6 tabelas (categorias, clientes, itens_pedido, pedido, produtos, vendedores). 
+
+Utilizei a ferramenta [ColorSpace](https://mycolor.space/) para auxiliar na escolha da paleta de cores.
+
+#### Página de Análise de Vendas
+
+![Página Análise de Vendas](https://github.com/Lacerdash/Alura_challenge_BI_2/blob/main/Semana%203/Screenshots/An%C3%A1lise%20de%20vendas1.PNG)
+
+No canto esquerdo da página inicial é possível visualizar o menu de navegação com ícones referentes as demais páginas do dashboard (vendedores, produtos e cenários), além disso é possível encontrar botões que direcionam para minhas redes sociais (linkedin e github). No canto direito superior se encontra os filtros de ano, mês e categoria do produto que podem ser utilizados separadamente ou em conjunto para afetar as visualizações dessa página. Outro ponto que vale ressaltar é o gráfico de faturmento por Ano/mês que contém uma projeção das vendas para os próximos 4 trimestres.
+
+#### Página de Vendedores
+
+![Página Análise Restaurantes Índia1](https://github.com/Lacerdash/Alura_challenge_BI_2/blob/main/Semana%203/Screenshots/Vendedores1.PNG)
+
+Na página de vendedores trouxe informações que considerei pertinentes para 
+
+#### Página de Produtos
+
+![Página Análise Restaurantes Índia1](https://github.com/Lacerdash/Alura_challenge_BI_2/blob/main/Semana%203/Screenshots/Produtos.PNG)
+
+#### Página de Cenários
+
+![Página Análise Restaurantes Índia1](https://github.com/Lacerdash/Alura_challenge_BI_2/blob/main/Semana%203/Screenshots/Cen%C3%A1rios.PNG)
 
 
