@@ -21,6 +21,7 @@ Em cada semana do desafio foi enviado uma área de trabalho no [Trello](https://
       - [Página de Vendedores](#página-de-vendedores)
       - [Página de Produtos](#página-de-produtos)
       - [Página de Cenários](#página-de-cenários)
+* [Entre em contato](#entre-em-contato)  
 
 ## Projetos desenvolvidos
 ### 🎞Semana 1 - Mergulhando no mercado cinematográfico - AluraFilms
@@ -146,3 +147,7 @@ Exemplo:
 Na página de cenários é possível simular diferentes cenários de crescimento ou redeução no faturamento, custos e/ou comissão. A página contém 4 cartão com a informação de faturamento, custo, comissão e lucro do cenário simulado. Além disso logo a baixo de cada cartão existe um gráfico de barras com as informações reais, do cenário e a diferença do Cenário para o real.
 
 E mais embaixo na página existe um texto dinâmico que descreve o que cada alteração percentual em faturamento, custo ou comissão irá afetar no total do lucro no final.
+
+## Entre em contato
+
+[Linkedin](https://www.linkedin.com/in/fernando-lacerda-/)
